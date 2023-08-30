@@ -1,8 +1,18 @@
 header {
-  height: 80px;
+  height: 90px;
   background-color: #2C3E50;
 }
-/* 
+
+.d-flex{
+  display: flex;
+
+}
+
+.bg-green {
+  background-color: #1ABC9C;
+  height: 500px;
+}
+/*    
 [class^="col"] {
   background-color: rgba(0, 0, 0, 0.2);
   border: 1px solid black;
